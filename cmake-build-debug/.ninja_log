@@ -1,0 +1,22 @@
+# ninja log v5
+2	2562	1649187592143899800	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	f7258c3ba8f4805b
+15	4514	1649187594094673400	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	c5f4ac1f04a1c81a
+27	8213	1649187597802045200	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	8aefc4b7cfd464e8
+8214	9659	1649187599252363800	lib/libgtest.a	94c1c13a3c1ab19b
+9660	9933	1649187599525612300	lib/libgmock.a	fb0ef9bee1da339d
+9933	10035	1649187599627704900	lib/libgmock_main.a	9d949882ce4be9b0
+15	174	1649199674442227500	src/CMakeFiles/SortingSrc.dir/sorting.cpp.o	6616282076539d2d
+2	199	1649200909726297300	src/CMakeFiles/SortInts.dir/main.cpp.o	5a43f1c1f1860eaf
+4	196	1649202798568121500	src/CMakeFiles/SortingSrc.dir/formatting.cpp.o	e258e18c4de6f1b5
+197	309	1649202798684226500	src/libSortingSrc.a	858a853ffbbb71b4
+310	473	1649202798845373500	src/SortInts.exe	3381dd73f4e0e47d
+140	262	1649203301857175700	testing/CMakeFiles/SortingTesting.dir/test_helpers.cpp.o	60738273fe729d0c
+159	2436	1649203304042163100	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	8951519ca6ef2fec
+24	2452	1649203304054173900	testing/CMakeFiles/SortingTesting.dir/test_swap.cpp.o	3869bc0e02fef76d
+38	2453	1649203304049169100	testing/CMakeFiles/SortingTesting.dir/test_min_index_of_array.cpp.o	1efacde11537a33c
+50	2453	1649203304050170000	testing/CMakeFiles/SortingTesting.dir/test_copy_array.cpp.o	91ac924fcdbb071a
+86	2472	1649203304064183300	testing/CMakeFiles/SortingTesting.dir/test_make_sorted.cpp.o	ff98766870de9194
+122	2504	1649203304097213200	testing/CMakeFiles/SortingTesting.dir/test_parse_agrs.cpp.o	7c1315dfa62bb192
+108	2543	1649203304146257600	testing/CMakeFiles/SortingTesting.dir/test_get_sorted.cpp.o	babb79db7be13f5d
+2437	2546	1649203304155266500	lib/libgtest_main.a	85c57a718b3c6278
+2546	4791	1649203306397853600	testing/SortingTesting.exe	c8808dcd263b60a3
